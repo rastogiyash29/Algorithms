@@ -1,3 +1,4 @@
+package String;
 public class Z_algorithm{
 
     // ____******____Z-Function____******____

@@ -1,3 +1,4 @@
+package String;
 public class Manachers_Algo {
 
     // APPROACH 4 : Manchers Algorithm-- Used to find longgest palindromic substring in O(N)
